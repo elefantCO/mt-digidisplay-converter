@@ -6,4 +6,4 @@ Requires:
 **opencv-python** (cv2)
 
 I need help:
-run the program with the *-h* or *--help* flag
+run the program with the **-h** or **--help** flag
